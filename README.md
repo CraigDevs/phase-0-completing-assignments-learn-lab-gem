@@ -80,8 +80,8 @@ Node in the previous environment setup instructions.
 
 To install the gem, run the following in your terminal:
 
-```console
-$ gem install learn-lab
+```console install learn-la
+$ gemb
 ```
 
 To configure the gem, do the following:
